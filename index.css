@@ -1,0 +1,53 @@
+body {
+    background-color: aliceblue;
+}
+
+h1 {
+    margin: 4px;
+}
+
+.container {
+    max-width: 90%;
+    margin: auto;
+    text-align: center;
+}
+
+.parts {
+    margin: auto;
+    margin-top: 10px;
+    border: 2px solid;
+    padding: 1%;
+    background-color: rgb(173, 150, 94);
+}
+
+
+
+.table {
+    border: 1px solid;
+    margin:10px ;
+}
+
+.bord {
+    border: 1px solid;
+    padding: 1px;
+}
+
+.float {
+    text-align: center;
+    margin: auto;
+    margin-top: 3px;
+}
+
+.form {
+    margin: auto;
+    text-align: center;
+}
+
+.submit {
+    text-align:left;
+    background-color: rgb(173, 185, 37);
+}
+div{
+    text-align: center;
+    text-indent: 1%;
+}
